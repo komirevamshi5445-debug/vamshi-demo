@@ -1,5 +1,5 @@
 # vamshi-demo
 this is my  first  git repository
 <br>
-Aubrthor - vamshi
+Author - vamshi
 
